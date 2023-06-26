@@ -1,0 +1,16 @@
+body{
+    background-image:url("../img/imagen.comer.jpg");
+}
+h1{
+    background-color: orangered;
+    text-align: center;
+}
+
+form {
+    border: 2px solid rgb(65, 4, 4);
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+
+}

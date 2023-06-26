@@ -1,0 +1,17 @@
+body{
+        background-image: url("../img/imagen.comer.jpg");
+   
+}
+h1{
+        text-align: center;
+}
+
+footer a{
+        position: relative;
+        bottom: 0;
+        padding: 20px;
+        color: blue;
+        text-decoration: none;
+        position: fixed;
+    
+}

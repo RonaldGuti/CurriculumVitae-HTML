@@ -1,0 +1,23 @@
+body{
+    background-image: url("img/imagen.comer.jpg");
+}
+header {
+
+    text-align: left;
+}
+main{
+    text-align: left;
+}
+
+section{
+    border: 2px solid rgb(65, 4, 4);
+    padding: 1px;
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: skyblue;
+}
+
+nav {
+    text-align: center;
+}
